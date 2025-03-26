@@ -56,7 +56,7 @@ Explore more projects on the live portfolio!
 To run the portfolio locally:
 1. Clone the repository:
    ```bash
-   git clone : https://srishanthreddy456789.github.io/Portfolio/
+   git clone https://srishanthreddy456789.github.io/Portfolio/
 ---
 
 
