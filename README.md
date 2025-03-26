@@ -4,7 +4,7 @@ Welcome to the GitHub repository for my personal portfolio! This project showcas
 
 ## 🚀 **Live Demo**
 Explore the live version of my portfolio:  
-[**Srishanth Reddy's Portfolio**](https://kamleshbaheti.github.io/Portfolio)
+[**Srishanth Reddy's Portfolio**](https://srishanthreddy456789.github.io/Portfolio/)
 
 ## 📋 **Table of Contents**
 - [About](#about)
@@ -56,7 +56,7 @@ Explore more projects on the live portfolio!
 To run the portfolio locally:
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone : https://srishanthreddy456789.github.io/Portfolio/
 ---
 
 
