@@ -45,8 +45,9 @@ This portfolio reflects my journey as a developer, featuring my projects, techni
 1. **Autism Detection Model** (Machine Learning, SVM, Python)
 2. **Handwritten Digit Recognition** (Neural Networks, TensorFlow)
 3. **Glitch 3.0** (Gesture-based system automation, Touchless tech)
-4. **Virtual Zoo** (3D Web App with ReactJS & ThreeJS)
-5. **Secure Login & Management System** (C++)
+4. *DineHub** ( user interative Web  with React & Node.js)
+5. **Secure Login & Management System** (Java)
+6. **Domino's pizza Clone**(Web for online services)
 
 Explore more projects on the live portfolio!
 
